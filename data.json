@@ -1,0 +1,59 @@
+{
+  "project": "BoxService V2",
+  "snapshot": "04/11/2026",
+  "tasks": {
+    "done": 25,
+    "doing": 3,
+    "pending": 6,
+    "provisional": true
+  },
+  "prs": {
+    "backend": {
+      "closed": 36,
+      "open": 1
+    },
+    "frontend": {
+      "closed": 43,
+      "open": 1
+    }
+  },
+  "ci": {
+    "backend": {
+      "total": 33,
+      "visible_success": 14,
+      "visible_failed": 0
+    },
+    "frontend": {
+      "total": 38,
+      "visible_success": 8,
+      "visible_failed": 3
+    }
+  },
+  "tests": {
+    "passed": 19,
+    "total": 19,
+    "note": "Primera etapa de pruebas unitarias; no se verificó ejecución automática en CI."
+  },
+  "sprints": [
+    {
+      "name": "Sprint 1",
+      "done": 4,
+      "pending": 0
+    },
+    {
+      "name": "Sprint 2",
+      "done": 5,
+      "pending": 2
+    },
+    {
+      "name": "Sprint 3",
+      "done": 5,
+      "pending": 1
+    },
+    {
+      "name": "Sprint 4",
+      "done": 0,
+      "pending": 3
+    }
+  ]
+}
